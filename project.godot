@@ -14,3 +14,8 @@ config/name="4MiniProjects"
 run/main_scene="uid://bld3sdsgvyet6"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+environment/defaults/default_clear_color=Color(0.215236, 0.259894, 0.347145, 1)
