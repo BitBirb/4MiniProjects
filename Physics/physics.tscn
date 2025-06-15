@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://dwp5x4f26xhmo" path="res://Physics/Sprites/PhysicsCharacter.png" id="1_bbkc8"]
 [ext_resource type="Script" uid="uid://b5w3egpx7nool" path="res://Physics/Scripts/physics_player.gd" id="1_kow1d"]
-[ext_resource type="PackedScene" uid="uid://d4a0qwpw8nwm1" path="res://Scenes/crate.tscn" id="3_h1ex6"]
+[ext_resource type="PackedScene" uid="uid://d4a0qwpw8nwm1" path="res://Physics/Scenes/crate.tscn" id="3_h1ex6"]
 [ext_resource type="Script" uid="uid://68bdppfsjolg" path="res://Physics/Scripts/camera_bounds.gd" id="4_p3c4k"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_kow1d"]
